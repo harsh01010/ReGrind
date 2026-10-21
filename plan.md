@@ -1,1 +1,0 @@
--  Complete the [LeetCode 75 problem set](https://leetcode.com/studyplan/leetcode-75/) with at least 4 problems per day.
